@@ -26,7 +26,9 @@ ShadowTasks es una aplicación móvil de lista de tareas (To-Do List) diseñada 
 
 ## Capturas de pantalla
 
-
+<p align="center">
+  <img width="715" alt="Diseño ShadowTasks Penpot" src="https://github.com/Nob0dyknows99/ShadowTasks/blob/f3d9b229756207c7a5571d5f7957c2d9dd10cac3/Disen%CC%83o.png">
+</p>
 
 ---
 
