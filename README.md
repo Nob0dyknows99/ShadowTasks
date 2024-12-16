@@ -18,7 +18,7 @@ ShadowTasks es una aplicación móvil de lista de tareas (To-Do List) diseñada 
 
 ## Tecnologías utilizadas
 
-- **Frontend**: Flutter
+- **Frontend**: Kotlin
 - **Backend**: Por definir.
 - **Diseño**: Diseñado con Penpot, utilizando ilustraciones y una paleta de colores personalizada.
 
